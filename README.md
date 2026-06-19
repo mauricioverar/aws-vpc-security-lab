@@ -1,4 +1,3 @@
-```markdown
 # Proyecto: Primeros Pasos en Seguridad de Redes Cloud  
 
 ## 🎯 Objetivo  
@@ -59,7 +58,7 @@ Se accede a **EC2 → Security Groups → Create security group**.
 - Se habilitó una **subred pública** para pruebas iniciales.  
 - Se configuró un **Security Group** con acceso SSH restringido a la IP del administrador.  
 - La práctica quedó documentada con evidencias visuales y textuales.
-```
+
 
 ---
 
